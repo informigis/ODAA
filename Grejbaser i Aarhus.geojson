@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Grejbase i Hørhaven", "Description": "  NavnGrejbase i Hørhaven" }, "geometry": { "type": "Point", "coordinates": [ 10.227105, 56.113017, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Grejbase i Vestereng Skov", "Description": "  NavnGrejbase i Vestereng Skov" }, "geometry": { "type": "Point", "coordinates": [ 10.181758, 56.184706, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Grejbase ved Egå Engsø shelterplads", "Description": "  NavnGrejbase ved Egå Engsø shelterplads" }, "geometry": { "type": "Point", "coordinates": [ 10.220486, 56.21362, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Grejbase ved Lisbjerg shelterplads", "Description": "  NavnGrejbase ved Lisbjerg shelterplads" }, "geometry": { "type": "Point", "coordinates": [ 10.170939, 56.22704, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Grejbase ved Skæring Hede", "Description": "  NavnGrejbase ved Skæring Hede" }, "geometry": { "type": "Point", "coordinates": [ 10.331046, 56.237924, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Grejbase på Tumlepladsen", "Description": "  NavnGrejbase på Tumlepladsen" }, "geometry": { "type": "Point", "coordinates": [ 10.224019, 56.176965, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Grejbase ved Søsporten", "Description": "  NavnGrejbase ved Søsporten" }, "geometry": { "type": "Point", "coordinates": [ 10.220007, 56.163726, 0.0 ] } }
+]
+}
